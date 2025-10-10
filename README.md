@@ -1,7 +1,7 @@
 ## Hi I'm Bhavesh 👋
 
 - 🔭 I’m currently working on **Data Analytics**
-- 🌱 I’m currently learning **Python Basics, Conditional Statements, Loops, Strings, Functions and Recursion, Data Structures (Coming Soon : SQL, Python Libraries)**.
+- 🌱 I’m currently learning **Python Basics, Conditional Statements, Loops, Strings, Functions and Recursion, Data Structures, Object Oriented Programming (Coming Soon : SQL)**.
 - 🤝 I'm looking to collaborate on **Data Analytics Project**.
 - 🤔 I’m looking for help with **guidance on new technologies and study plans**.
 - 💬 Ask me about **Python and my learning journey**.
